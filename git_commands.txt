@@ -33,3 +33,13 @@ ls
 git status
 git restore testing.py
 ls
+git status
+git add .
+git commit -m "These are the Git Commands that i am Practicing"
+git status
+git remote add origin https://github.com/SunnyxBuchi/github_for_devops_wo... 
+git remote -v
+git remote set-url origin https://ghp_xd0CyFXXSyo0uUSUgeZZbX5KLGCetr2kOR... 
+git remote -v
+git push origin master
+git clone {cloning URL}
