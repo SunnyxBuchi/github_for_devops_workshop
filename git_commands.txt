@@ -1,0 +1,35 @@
+ls
+git add .\testing.py
+cd
+cd..
+ls
+git status
+git add testing.py
+dir
+ls
+git init
+git status
+git add testing.py
+git status
+git rn --cached testing.py
+rm --cached testing.py
+git rm --cached testing.py
+git status
+git add .
+git status
+git --cached .\.vscode\
+git rm --cached .\.vscode\
+ls
+git status
+rm .\.vscode\
+ls
+git status
+git commit -m "Added testing files"
+git st
+git status
+rm testing.py
+l
+ls
+git status
+git restore testing.py
+ls
